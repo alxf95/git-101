@@ -9,6 +9,7 @@ body {
   justify-content: center;
   height: 100vh;
   flex-direction: column;
+  font-weight: 100
 }
 
 #logo {
